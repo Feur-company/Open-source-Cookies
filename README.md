@@ -1,8 +1,10 @@
-## Open-source-Cookies
+# Open-source-Cookies
 Open source delightful cookies for everyone.
-
 ---
 
+<img src="cookies.jpeg" height="150"/>
+
+---
 ### Requirements :
 | :warning: WARNING          |
 |:---------------------------|
