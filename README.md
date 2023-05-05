@@ -3,13 +3,30 @@ Open source delightful cookies for everyone.
 
 ---
 
-### Ingredients :
+### Requirements :
+| :warning: WARNING          |
+|:---------------------------|
+| Only avalaible for Linux distribution |
 
-* Placeholder
-* Placeholder
-* Placeholder
-* Placeholder
-* Placeholder
+* Egg: 1
+* Sugar: 85 g
+* Unsalted butter: 85 g
+* Flour: 150 g
+* Chocolate chips: 100 g
+* Vanilla sugar: 1 sachet
+* Baking powder: 1 tsp
+* Salt: ½ tsp
 
-### Preparation :
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium euismod enim, ut vestibulum ante condimentum nec. Mauris ornare mi nec posuere eleifend. Fusce lectus enim, vehicula eget libero id, aliquam semper leo. Maecenas eget ante ultricies, viverra orci vitae, feugiat erat. Ut elementum dignissim tellus, at consectetur dolor interdum non. Praesent eros purus, suscipit et tristique at, tristique vel magna. Fusce vehicula leo non nisl posuere vestibulum. Vivamus lacinia leo quis magna commodo, ut dignissim purus eleifend. Pellentesque dapibus lacus sed faucibus bibendum. Donec dignissim, ligula id tempor scelerisque, nisi turpis consequat dolor, eget viverra lectus mi ac arcu. Proin eu odio sed dui fringilla porttitor. Cras lacinia urna nec lectus elementum tristique. Suspendisse aliquam lorem dapibus augue sagittis euismod.
+
+### Build instruction :
+1. Let the butter soften to room temperature. In a bowl, cream it with the sugar.
+2. Add the egg and vanilla sugar (if using).
+3. Gradually add the flour, baking powder, salt, and chocolate chips. Mix well.
+4. Grease a baking sheet or line it with a silicone mat. Using two tablespoons or simply your hands, form balls of dough, spacing them apart as they will spread during baking.
+
+#### To finish
+Bake for 8 to 10 minutes at 180°C (350°F) or gas mark.
+Remove them from the oven as soon as the edges begin to brown.
+
+## Contributing :
+The contributions are highly appreciated !
