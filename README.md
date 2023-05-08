@@ -30,5 +30,7 @@ Open source delightful cookies for everyone.
 Bake for 8 to 10 minutes at 180°C (350°F) or gas mark.
 Remove them from the oven as soon as the edges begin to brown.
 
+---
+
 ## Contributing :
 The contributions are highly appreciated !
