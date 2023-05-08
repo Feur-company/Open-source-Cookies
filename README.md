@@ -8,7 +8,9 @@ Open source delightful cookies for everyone.
 ### Requirements :
 | :warning: WARNING          |
 |:---------------------------|
-| Only avalaible for Windows -1 or higher and any Linux distributions|
+| Only avalaible for Windows -1 or higher, MacOS 20.0 and any Linux distributions|
+
+### Ingredients :
 
 * Egg: 1
 * Sugar: 85 g
