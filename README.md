@@ -21,7 +21,7 @@ Open source delightful cookies for everyone.
 * Salt: ½ tsp
 
 
-### Build instruction :
+### Building instruction:
 1. Let the butter soften to room temperature. In a bowl, cream it with the sugar.
 2. Add the egg and vanilla sugar (if using).
 3. Gradually add the flour, baking powder, salt, and chocolate chips. Mix well.
