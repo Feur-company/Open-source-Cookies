@@ -10,7 +10,6 @@ Open source delightful cookies for everyone.
 |:---------------------------|
 | Only avalaible for Windows 14 or higher and any Linux distributions|
 
-### Ingredients :
 
 * Egg: 1
 * Sugar: 85 g
