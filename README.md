@@ -8,7 +8,7 @@ Open source delightful cookies for everyone.
 ### Requirements :
 | :warning: WARNING          |
 |:---------------------------|
-| Only avalaible for Windows 14 or higher and any Linux distributions|
+| Only avalaible for Windows 8.1 eor higher and any Linux distributions|
 
 
 * Egg: 1
